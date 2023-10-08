@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "63c80f8974adb4de",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb46bdda5390bfa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a4a0eb0ff209746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Network/Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27392216c089e12b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b3d06cbf94515f48",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a3d1a8ed35c33aad",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cc093431fa61262f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d17a58be2c6ec254",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "right": {
+    "id": "4ca2434c9dbee0bc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "90f5caa614b621e2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Computer Network/Network.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "933e9baba8d8d714",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Computer Network/Network.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5c84372dc10355ed",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Computer Network/Network.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9a4a0eb0ff209746",
+  "lastOpenFiles": [
+    "Computer Network/Network.md",
+    "Computer Network/무제 파일 1.md"
+  ]
+}

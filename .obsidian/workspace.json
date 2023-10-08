@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "06d6f57e921e61b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "60f770f46cfbe406",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8017c95b060bd9b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Graphics/Orientation & Rotation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "490c4d9a30da43d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Network/Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e6b756ed2edf072",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd31fcc01013afc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e41cbcfeb098e1e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c234e1253293d9e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag: graphics",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3548150018b04dd2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "939b9dbbad720629",
+    "type": "split",
+    "children": [
+      {
+        "id": "845e473420eee52b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f33abcdf607ea45c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Network/Network.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bb588a8a310e401",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Network/Network.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f69e24b8797f23c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "68cd65c6eb7fb60f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Network/Network.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "490c4d9a30da43d5",
+  "lastOpenFiles": [
+    "Computer Graphics/Orientation & Rotation.md",
+    "무제 파일.canvas",
+    "Terminology/Orientation.md",
+    "Terminology/Rotation.md",
+    "Terminology/DOF.md",
+    "Computer Network/Network.md",
+    "Terminology/Pictures/dof_3D_2.png",
+    "Terminology/Pictures/dof_3D.png",
+    "Terminology/Pictures/dof_1D.png",
+    "Terminology/Pictures/dof_2D.png",
+    "Terminology/Pictures/Screenshot 2023-10-05 at 17.42.20.png",
+    "Terminology/Pictures",
+    "Screenshot 2023-10-05 at 17.40.15.png",
+    "Terminology",
+    "무제 파일 2.canvas",
+    "무제 파일 1.canvas",
+    "2023-10-05.md",
+    "Computer Network/무제 파일 1.md",
+    "Computer Graphics",
+    "Computer Network",
+    "2023-09-24.md"
+  ]
+}

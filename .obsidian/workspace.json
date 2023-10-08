@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "60f770f46cfbe406",
+        "id": "8eb739634ef3b75b",
         "type": "tabs",
         "children": [
           {
-            "id": "8017c95b060bd9b9",
+            "id": "c43afb9ee5b0e52e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Graphics/Orientation & Rotation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "490c4d9a30da43d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Network/Network.md",
+                "file": "Terminology/Orientation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Network/Network.md",
+                "file": "Terminology/Orientation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Network/Network.md",
+                "file": "Terminology/Orientation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Network/Network.md"
+                "file": "Terminology/Orientation.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -159,14 +147,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "490c4d9a30da43d5",
+  "active": "c43afb9ee5b0e52e",
   "lastOpenFiles": [
     "Computer Graphics/Orientation & Rotation.md",
-    "무제 파일.canvas",
-    "Terminology/Orientation.md",
     "Terminology/Rotation.md",
+    "Terminology/Orientation.md",
     "Terminology/DOF.md",
     "Computer Network/Network.md",
+    "무제 파일.canvas",
     "Terminology/Pictures/dof_3D_2.png",
     "Terminology/Pictures/dof_3D.png",
     "Terminology/Pictures/dof_1D.png",

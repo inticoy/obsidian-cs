@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8eb739634ef3b75b",
+        "id": "5c6a1c147676f398",
         "type": "tabs",
         "children": [
           {
-            "id": "c43afb9ee5b0e52e",
+            "id": "0a9cb7ee00fee5f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terminology/Orientation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3428ddfa2cc12ab3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Graphics/Orientation & Rotation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Graphics/Orientation & Rotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Graphics/Orientation & Rotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Graphics/Orientation & Rotation.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,15 +139,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3428ddfa2cc12ab3",
+  "active": "0a9cb7ee00fee5f8",
   "lastOpenFiles": [
+    "Terminology/Orientation.md",
+    "Computer Graphics/Orientation & Rotation.md",
     "Computer Network/Network.md",
     "Terminology/Pictures/dof_3D_2.png",
     "Terminology/DOF.md",
-    "Terminology/Orientation.md",
     "Terminology/Rotation.md",
     "conflict-files-obsidian-git.md",
-    "Computer Graphics/Orientation & Rotation.md",
     "무제 파일.canvas",
     "Terminology/Pictures/dof_3D.png",
     "Terminology/Pictures/dof_1D.png",

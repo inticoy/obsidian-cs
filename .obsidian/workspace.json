@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Network/NetPractice.md",
+                "file": "Computer Network/NetPractice/NetPractice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Network/NetPractice.md",
+                "file": "Computer Network/NetPractice/NetPractice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Network/NetPractice.md",
+                "file": "Computer Network/NetPractice/NetPractice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Network/NetPractice.md"
+                "file": "Computer Network/NetPractice/NetPractice.md"
               }
             }
           }
@@ -147,12 +147,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "103e06ddfe35238c",
+  "active": "e41cbcfeb098e1e4",
   "lastOpenFiles": [
     "image/level1.png.md",
     "image",
     "Terminology/DOF.md",
-    "Computer Network/NetPractice.md",
+    "Computer Network/NetPractice/NetPractice.md",
     "Computer Network/NetPractice/Image/level1.png",
     "Computer Network/NetPractice/Image/level5.png",
     "Computer Network/NetPractice/Image/level3.png",

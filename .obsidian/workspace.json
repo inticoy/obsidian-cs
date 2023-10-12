@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminology/Loopback.md",
+                "file": "Computer Network/NetPractice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminology/Loopback.md",
+                "file": "Computer Network/NetPractice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminology/Loopback.md",
+                "file": "Computer Network/NetPractice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminology/Loopback.md"
+                "file": "Computer Network/NetPractice.md"
               }
             }
           }
@@ -150,9 +150,10 @@
   "active": "0a9cb7ee00fee5f8",
   "lastOpenFiles": [
     "Computer Network/Network.md",
+    "Computer Network/NetPractice.md",
+    "Computer Graphics/Orientation & Rotation.md",
     "Terminology/Loopback.md",
     "Terminology/Orientation.md",
-    "Computer Graphics/Orientation & Rotation.md",
     "Terminology/Pictures/dof_3D_2.png",
     "Terminology/DOF.md",
     "Terminology/Rotation.md",

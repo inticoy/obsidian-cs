@@ -30,3 +30,6 @@
 ![level3](./Image/level3.png)
 ### 문제 의도
 - 스위치의 역할에 대해서 알아보자.
+### Goal 1: A와 B 연결
+
+### Goal 2: A와 C 연ㄱ

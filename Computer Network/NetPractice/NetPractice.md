@@ -1,5 +1,11 @@
 # 문제 풀이
 ## Level 1
 
-![level1](Computer%20Network/NetPractice/Image/level1.png)
+![level1](./Image/level1.png)
 
+- LAN(Local Area Network)에서의 IP 주소 지정 방식과 서브넷 마스크에 대해서 공부한다.
+### Goal 1 : client A와 client B 연결
+- 두 컴퓨터가 통신을 하기 위해서는 같은 네트워크에 들어있어야하므로, 네트워크 주소를 같게 한 뒤, 남은 부분으로 Client A의 주소를 B의 주소와 구분되도록 지정한다.
+- 서브넷 마스크가 255.255.255.0 이므로, 24번째 비트까지가 (104.99.23.0) 네트워크 주소가 된다. 
+- Interface A1의 IP 주소는 네트워크 주소인 (104.99.23.0)과 브로드캐스팅 주소인 (104.99.23.255) 를 제외한 주소로 지정한다.
+### Goal 2: client C와 client D 연결

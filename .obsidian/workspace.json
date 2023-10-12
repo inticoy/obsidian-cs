@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "69687b228def6867",
+        "id": "61e84fc946198dee",
         "type": "tabs",
         "children": [
           {
-            "id": "103e06ddfe35238c",
+            "id": "15c3c57f5a44c68b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,13 +147,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e41cbcfeb098e1e4",
+  "active": "15c3c57f5a44c68b",
   "lastOpenFiles": [
+    "Computer Network/NetPractice/Image/level1.png",
+    "Computer Network/NetPractice/NetPractice.md",
     "image/level1.png.md",
     "image",
     "Terminology/DOF.md",
-    "Computer Network/NetPractice/NetPractice.md",
-    "Computer Network/NetPractice/Image/level1.png",
     "Computer Network/NetPractice/Image/level5.png",
     "Computer Network/NetPractice/Image/level3.png",
     "Computer Network/NetPractice/Image/level10.png",

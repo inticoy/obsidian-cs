@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "713abac9aade3ba1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Polymorphism.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Polymorphism.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Polymorphism.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,15 +160,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6663ade3c5431883",
+  "active": "713abac9aade3ba1",
   "lastOpenFiles": [
+    "C++/Polymorphism.md",
+    "conflict-files-obsidian-git.md",
     "Terminology/Loopback.md",
     "Computer Network/NetPractice/NetPractice.md",
     "Terminology/Rotation.md",
     "Terminology/Orientation.md",
     "Terminology/DOF.md",
     "Computer Network/Network.md",
-    "C++/Polymorphism.md",
     "C++",
     "Computer Network/NetPractice/Image/level1.png",
     "image/level1.png.md",
@@ -172,7 +186,6 @@
     "Computer Network/NetPractice/Image",
     "Computer Network/NetPractice",
     "Computer Graphics/Orientation & Rotation.md",
-    "conflict-files-obsidian-git.md",
     "무제 파일.canvas",
     "Terminology/Pictures",
     "Terminology",

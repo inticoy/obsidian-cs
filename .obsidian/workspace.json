@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Polymorphism.md",
+                "file": "Computer Network/NetPractice/NetPractice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Polymorphism.md",
+                "file": "Computer Network/NetPractice/NetPractice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Polymorphism.md",
+                "file": "Computer Network/NetPractice/NetPractice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Polymorphism.md"
+                "file": "Computer Network/NetPractice/NetPractice.md"
               }
             }
           }
@@ -149,8 +149,19 @@
   },
   "active": "6663ade3c5431883",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Computer Network/NetPractice/Image/level1.png",
+    "Computer Network/NetPractice/Image/level2.png",
+    "Computer Network/NetPractice/Image/level10_solution.png",
+    "Computer Network/NetPractice/Image/level9_solution.png",
+    "Computer Network/NetPractice/Image/level8_solution.png",
+    "Computer Network/NetPractice/Image/level7_solution.png",
+    "Computer Network/NetPractice/Image/level6_solution.png",
+    "Computer Network/NetPractice/Image/level5_solution.png",
+    "Computer Network/NetPractice/Image/level4_solution.png",
+    "Computer Network/NetPractice/Image/level3_solution.png",
+    "Computer Network/NetPractice/Image/level2_solution.png",
     "C++/Polymorphism.md",
+    "conflict-files-obsidian-git.md",
     "Terminology/Loopback.md",
     "Computer Network/NetPractice/NetPractice.md",
     "Terminology/Rotation.md",
@@ -158,18 +169,8 @@
     "Terminology/DOF.md",
     "Computer Network/Network.md",
     "C++",
-    "Computer Network/NetPractice/Image/level1.png",
     "image/level1.png.md",
     "image",
-    "Computer Network/NetPractice/Image/level5.png",
-    "Computer Network/NetPractice/Image/level3.png",
-    "Computer Network/NetPractice/Image/level10.png",
-    "Computer Network/NetPractice/Image/level9.png",
-    "Computer Network/NetPractice/Image/level8.png",
-    "Computer Network/NetPractice/Image/level7.png",
-    "Computer Network/NetPractice/Image/level6.png",
-    "Computer Network/NetPractice/Image/level4.png",
-    "Computer Network/NetPractice/Image/level2.png",
     "Computer Network/NetPractice/Image",
     "Computer Network/NetPractice",
     "Computer Graphics/Orientation & Rotation.md",

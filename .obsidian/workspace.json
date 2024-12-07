@@ -11,13 +11,26 @@
             "id": "6663ade3c5431883",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Computer Network/NetPractice/Image/level3.png"
+                "file": "Computer Network/NetPractice/NetPractice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31139bd4419c2f8a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Network/NetPractice/Image/level3.png",
+                "file": "Computer Network/NetPractice/NetPractice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Network/NetPractice/Image/level3.png",
+                "file": "Computer Network/NetPractice/NetPractice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Network/NetPractice/Image/level3.png"
+                "file": "Computer Network/NetPractice/NetPractice.md"
               }
             }
           }
@@ -145,10 +158,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e41cbcfeb098e1e4",
+  "active": "31139bd4419c2f8a",
   "lastOpenFiles": [
-    "Computer Network/NetPractice/Image/level3 copy.png",
+    "Computer Network/Network.md",
     "Computer Network/NetPractice/Image/level3.png",
+    "Computer Network/NetPractice/Image/level3 copy.png",
     "Computer Network/NetPractice/Image/level1 copy.png",
     "Computer Network/NetPractice/Image/level1.png",
     "Computer Network/NetPractice/NetPractice.md",
@@ -159,14 +173,12 @@
     "Computer Network/NetPractice/Image/level8_solution.png",
     "Computer Network/NetPractice/Image/level7_solution.png",
     "Computer Network/NetPractice/Image/level6_solution.png",
-    "Computer Network/NetPractice/Image/level5_solution.png",
     "C++/Polymorphism.md",
     "conflict-files-obsidian-git.md",
     "Terminology/Loopback.md",
     "Terminology/Rotation.md",
     "Terminology/Orientation.md",
     "Terminology/DOF.md",
-    "Computer Network/Network.md",
     "C++",
     "image/level1.png.md",
     "image",

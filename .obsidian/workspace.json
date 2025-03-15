@@ -11,10 +11,14 @@
             "id": "a74378f5de5f842a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "Terminology/Loopback.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Loopback"
             }
           }
         ]
@@ -157,6 +161,15 @@
   },
   "active": "a74378f5de5f842a",
   "lastOpenFiles": [
+    "Terminology/Rotation.md",
+    "Terminology/Loopback.md",
+    "image/level1.png.md",
+    "Terminology/Pictures/dof_3D_2.png",
+    "Terminology/Pictures/dof_3D.png",
+    "Terminology/Pictures/dof_2D.png",
+    "Terminology/Pictures/dof_1D.png",
+    "Computer Graphics/Orientation & Rotation.md",
+    "C++/Polymorphism.md",
     "Computer Network/NetPractice/NetPractice.md",
     "Computer Network/Network.md",
     "Computer Network/NetPractice/Image/level3.png",
@@ -166,22 +179,13 @@
     "Computer Network/NetPractice.zip",
     "Computer Network/NetPractice/Image/level2.png",
     "Computer Network/NetPractice/Image/level10_solution.png",
-    "Computer Network/NetPractice/Image/level9_solution.png",
-    "Computer Network/NetPractice/Image/level8_solution.png",
-    "Computer Network/NetPractice/Image/level7_solution.png",
-    "Computer Network/NetPractice/Image/level6_solution.png",
-    "C++/Polymorphism.md",
     "conflict-files-obsidian-git.md",
-    "Terminology/Loopback.md",
-    "Terminology/Rotation.md",
     "Terminology/Orientation.md",
     "Terminology/DOF.md",
     "C++",
-    "image/level1.png.md",
     "image",
     "Computer Network/NetPractice/Image",
     "Computer Network/NetPractice",
-    "Computer Graphics/Orientation & Rotation.md",
     "무제 파일.canvas",
     "Terminology/Pictures",
     "Terminology",

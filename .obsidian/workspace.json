@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminology/Loopback.md",
+                "file": "Terminology/Orientation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loopback"
+              "title": "Orientation"
+            }
+          },
+          {
+            "id": "6624ccf1e44e9f36",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -151,24 +165,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a74378f5de5f842a",
+  "active": "6624ccf1e44e9f36",
   "lastOpenFiles": [
-    "Terminology/Rotation.md",
+    "Computer Graphics/Orientation & Rotation.md",
     "Terminology/Loopback.md",
+    "Terminology/Rotation.md",
     "image/level1.png.md",
     "Terminology/Pictures/dof_3D_2.png",
     "Terminology/Pictures/dof_3D.png",
     "Terminology/Pictures/dof_2D.png",
     "Terminology/Pictures/dof_1D.png",
-    "Computer Graphics/Orientation & Rotation.md",
     "C++/Polymorphism.md",
     "Computer Network/NetPractice/NetPractice.md",
     "Computer Network/Network.md",
